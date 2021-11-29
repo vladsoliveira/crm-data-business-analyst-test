@@ -1,6 +1,12 @@
 # ifood-data-business-analyst-test
-## last update 19/02/2020
+Vladimir Silva de Oliveira 
 <br><br>
-This case is used for hiring Data Analysts for the iFood Brain team. Instructions are in the pdf file. <br><br>
+Neste desafio, inicio criando hipóteses sobre a influência dos atributos na variável resposta baseadas em conhecimento de negócio, ainda não pautadas em dados.
 
-If you are interested in joining our team, or getting to know more about iFood and our team, feel free to send an e-mail to "ifoodbrain_hiring@ifood.com.br".<br><br>
+Durante o desenvolvimento, utilizo a Análise Exploratória para abordar o problema de duas formas:
+- Confirmando ou negando crenças de negócio
+- Trazendo novos insights não necessariamente relacionados às hipóteses
+
+A partir das análises univariada, bivariada e multivariada, proponho segmentações de clientes e dou os primeiros passos de um modelo de classificação.
+
+<br>
